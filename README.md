@@ -3,7 +3,7 @@ Mass wordpress checker, this tool functions to detect every website that uses Wo
 
 
 ## _Preview_
-![ss](https://raw.githubusercontent.com/leetzch/domcheck/main/domcheck.png)
+![ss](https://raw.githubusercontent.com/leetzch/wpcheck/main/wpcheck.png)
 
 ## _Copyright_
 #Z - https://github.com/leetzch - https://t.me/leetzch
